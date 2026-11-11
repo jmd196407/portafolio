@@ -11,7 +11,7 @@ Disponible para teletrabajo. Mi experiencia en ventas y gestión de negocios inc
 | Proyecto | Qué muestra |
 | --- | --- |
 | **[Compras 2026 · Power BI](https://github.com/jmd196407/compras-2026-powerbi)** | Informe sobre el gasto, la frecuencia de compra y la evolución de las compras y la caja durante 2026. |
-| **AbuExcel** | Formación práctica en Excel y autonomía digital para personas mayores y principiantes. Tablas dinámicas, segmentadores, gráficos e indicadores. |
+| **AbuExcel** | Proyecto que fundé para enseñar Excel y herramientas digitales a personas mayores y principiantes. Más de 60 clases en YouTube, con tareas prácticas explicadas paso a paso para ganar autonomía digital. |
 | **LogiTrack Ripoll** | Prototipo para organizar expediciones, rutas, entregas, incidencias y almacenaje en un centro de última milla. |
 
 ## Competencias
