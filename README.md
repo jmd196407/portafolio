@@ -8,10 +8,17 @@ Disponible para teletrabajo. Mi experiencia en ventas y gestión de negocios inc
 
 ## Proyectos
 
+### AbuExcel · Aprende sin miedo
+
+Fundé AbuExcel para enseñar Excel y herramientas digitales a personas mayores y principiantes. El proyecto reúne **más de 60 clases en YouTube**. Cada clase empieza mostrando qué se va a conseguir y explica el proceso paso a paso para que el alumno pueda repetirlo a su ritmo.
+
+El recorrido de Excel abarca organización de datos, fórmulas, tablas dinámicas, gráficos e indicadores. El proyecto también aborda herramientas del móvil y usos cotidianos de la inteligencia artificial para fomentar la autonomía digital.
+
+[Ver las clases de AbuExcel en YouTube](https://www.youtube.com/playlist?list=PLv4pgGJd_LbFtY9kfDEPrdYFiB1XVJRFM)
+
 | Proyecto | Qué muestra |
 | --- | --- |
 | **[Compras 2026 · Power BI](https://github.com/jmd196407/compras-2026-powerbi)** | Informe sobre el gasto, la frecuencia de compra y la evolución de las compras y la caja durante 2026. |
-| **AbuExcel** | Proyecto que fundé para enseñar Excel y herramientas digitales a personas mayores y principiantes. Más de 60 clases en YouTube, con tareas prácticas explicadas paso a paso para ganar autonomía digital. |
 | **LogiTrack Ripoll** | Prototipo para organizar expediciones, rutas, entregas, incidencias y almacenaje en un centro de última milla. |
 
 ## Competencias
